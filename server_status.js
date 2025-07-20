@@ -4,8 +4,8 @@ const fs = require('fs');
 const path = require('path');
 
 // 定义服务器地址和端口
-const serverAddress = 'play.simpfun.cn';  // 替换为你的服务器地址
-const serverPort = 25465;             // 替换为你的服务器端口
+const serverAddress = 'be.craft.fun';  // 替换为你的服务器地址
+const serverPort = 32123;             // 替换为你的服务器端口
 
 // 定义JSON文件路径
 const statusFilePath = path.join(__dirname, 'server_status.json');
